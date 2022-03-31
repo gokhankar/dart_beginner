@@ -13,5 +13,6 @@ void main() {
   print(age + age2);
   print("My name :" + name.toString());
   print("Age :" + (2022 - birthYear).toString());
+  print(interestRate);
   print(isLoggedIn);
 }
