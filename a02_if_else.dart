@@ -3,6 +3,7 @@ void main() {
 
   if (isLoggedIn) {
     print("User logged in");
+    // ignore: dead_code
   } else {
     print("Guest");
   }
